@@ -1,6 +1,8 @@
 # Linked Open Data of ITMO University
 
-This project include public pages for http://lod.ifmo.ru/ project.
+This project include public pages for http://lod.ifmo.ru project.
+
+[![Build Status](https://travis-ci.org/LODIFMO/frontend-app.svg?branch=master)](https://travis-ci.org/LODIFMO/frontend-app)
 
 ### Basic concepts
 
